@@ -5,9 +5,13 @@ const Dashboard = () => {
   return (
     <div>
       <section className="db-header">
-        <button>Add Application</button>
-        <h1>Daniel's Applications</h1>
-        <button>Log Out</button>
+        <button className="db-header-button db-header-add-button">
+          Add Application
+        </button>
+        <h1>Daniel's Application Dashboard</h1>
+        <button className="db-header-button db-header-logout-button">
+          Log Out
+        </button>
       </section>
       <section className="db-applications-layout">
         {applications && applications.length > 0 ? (

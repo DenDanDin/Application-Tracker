@@ -1,0 +1,43 @@
+.ac-container {
+  background-color: white;
+  border-radius: 15px;
+  padding: 1vh 3vw 2vh 3vw;
+}
+
+.ac-companyName {
+  margin-top: 1vh;
+  margin-bottom: 0vh;
+}
+
+.ac-position {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+.ac-id-status-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+.ac-status {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  float: left;
+}
+
+.ac-id {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  float: right;
+}
+
+.ac-view-details-btn {
+  margin: 1vh auto 0.5vh auto;
+  display: block;
+  background-color: #009fb7;
+  border-radius: 0.75vw;
+  width: 18vw;
+  height: 4vh;
+}

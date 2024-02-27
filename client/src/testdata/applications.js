@@ -11,16 +11,16 @@ export const applications = [
     status: "Offer",
     applicationId: "1234567891",
   },
-  {
-    companyName: "Baskin Robbins",
-    position: "Professional Scooper",
-    status: "Interview",
-    applicationId: "1234567892",
-  },
-  {
-    companyName: "Amazon",
-    position: "Full Stack Developer",
-    status: "Considering",
-    applicationId: "1234567893",
-  },
+  // {
+  //   companyName: "Baskin Robbins",
+  //   position: "Professional Scooper",
+  //   status: "Interview",
+  //   applicationId: "1234567892",
+  // },
+  // {
+  //   companyName: "Amazon",
+  //   position: "Full Stack Developer",
+  //   status: "Considering",
+  //   applicationId: "1234567893",
+  // },
 ];
