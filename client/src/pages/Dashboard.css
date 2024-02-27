@@ -1,0 +1,11 @@
+.db-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.db-applications-layout {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+}
