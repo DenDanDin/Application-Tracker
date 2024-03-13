@@ -24,3 +24,22 @@ export const applications = [
   //   applicationId: "1234567893",
   // },
 ];
+
+export const STAGES = [
+  {
+    timeUpdated: "2/27/24",
+    stage: "Considering",
+  },
+  {
+    timeUpdated: "2/28/24",
+    stage: "Applied",
+  },
+  {
+    timeUpdated: "2/29/24",
+    stage: "Interview",
+  },
+  {
+    timeUpdated: "2/30/24",
+    stage: "Offer",
+  },
+];
